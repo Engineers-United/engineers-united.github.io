@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://engineers-united.github.io/docs/engineers-united/</loc>
+  </url><url>
     <loc>https://engineers-united.github.io/docs/example/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/example/table-of-contents/with-toc/</loc>
   </url><url>
@@ -17,6 +21,8 @@
     <loc>https://engineers-united.github.io/docs/example/table-of-contents/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/example/collapsed/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -65,6 +71,24 @@
     <loc>https://engineers-united.github.io/docs/example/collapsed/3rd-level/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/example/hidden/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/checklist/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/day-of-action/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/event-wifi/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/email-templates/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/initial-outreach/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/stats/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/volunteer-guidlines/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/shortcodes/</loc>
   </url><url>

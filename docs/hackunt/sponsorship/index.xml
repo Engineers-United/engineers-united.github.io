@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineers United Docs</title>
+    <link>https://engineers-united.github.io/docs/hackunt/sponsorship/</link>
+    <description>Recent content on Engineers United Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://engineers-united.github.io/docs/hackunt/sponsorship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://engineers-united.github.io/docs/hackunt/sponsorship/email-templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/email-templates/</guid>
+      <description>Email Templates # Following up # We should follow up with sponsors after our event. It is important to know what we did right and did wrong. This will better help us to understand the wants and needs of our sponsors. These companies were willing to give us a chance and give us a considerable amount. It is important that we try to mitigate all damages that might have occurred during the event.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://engineers-united.github.io/docs/hackunt/sponsorship/initial-outreach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/initial-outreach/</guid>
+      <description> Initial Outreach # </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</guid>
+      <description>Onboarding # Sponsorship Onboarding is the next step after sponsors agree to participate in the hackathon! It is very important that you follow up quickly and respectively during these times. Sponsors will have quite a few questions but most can be answered by giving them the Sponsor Onboarding Packet.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</guid>
+      <description>Sponsorhip Retrospective # Following up # We should follow up with sponsors after our event. It is important to know what we did right and did wrong. This will better help us to understand the wants and needs of our sponsors. These companies were willing to give us a chance and give us a considerable amount. It is important that we try to mitigate all damages that might have occurred during the event.</description>
+    </item>
+    
+  </channel>
+</rss>
