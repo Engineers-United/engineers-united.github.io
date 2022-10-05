@@ -8,19 +8,11 @@
   </url><url>
     <loc>https://engineers-united.github.io/docs/example/</loc>
   </url><url>
-    <loc>https://engineers-united.github.io/docs/example/table-of-contents/with-toc/</loc>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/example/table-of-contents/without-toc/</loc>
-  </url><url>
     <loc>https://engineers-united.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://engineers-united.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/example/table-of-contents/</loc>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/example/collapsed/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/hackunt/roles/</loc>
   </url><url>
@@ -72,12 +64,6 @@
   </url><url>
     <loc>https://engineers-united.github.io/docs/engineers-united/git-workflows/</loc>
   </url><url>
-    <loc>https://engineers-united.github.io/docs/example/collapsed/3rd-level/4th-level/</loc>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/example/collapsed/3rd-level/</loc>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/example/hidden/</loc>
-  </url><url>
     <loc>https://engineers-united.github.io/docs/example/shortcodes/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/hackunt/checklist/</loc>
@@ -99,6 +85,8 @@
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</loc>
+  </url><url>
+    <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/sponsorship-packet/</loc>
   </url><url>
     <loc>https://engineers-united.github.io/docs/hackunt/stats/</loc>
   </url><url>

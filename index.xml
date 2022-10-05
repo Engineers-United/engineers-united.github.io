@@ -8,26 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://engineers-united.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>With ToC</title>
-      <link>https://engineers-united.github.io/docs/example/table-of-contents/with-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineers-united.github.io/docs/example/table-of-contents/with-toc/</guid>
-      <description>Caput vino delphine in tamen vias # Cognita laeva illo fracta # Lorem markdownum pavent auras, surgit nunc cingentibus libet Laomedonque que est. Pastor An arbor filia foedat, ne fugit aliter, per. Helicona illas et callida neptem est Oresitrophos caput, dentibus est venit. Tenet reddite famuli praesentem fortibus, quaeque vis foret si frondes gelidos gravidae circumtulit inpulit armenta nativum.
-Te at cruciabere vides rubentis manebo Maturuit in praetemptat ruborem ignara postquam habitasse Subitarum supplevit quoque fontesque venabula spretis modo Montis tot est mali quasque gravis Quinquennem domus arsit ipse Pellem turis pugnabant locavit Natus quaerere # Pectora et sine mulcere, coniuge dum tincta incurvae.</description>
-    </item>
-    
-    <item>
-      <title>Without ToC</title>
-      <link>https://engineers-united.github.io/docs/example/table-of-contents/without-toc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineers-united.github.io/docs/example/table-of-contents/without-toc/</guid>
-      <description>At me ipso nepotibus nunc celebratior genus # Tanto oblite # Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat admonitu concidit, ad resimas vultus et rugas vultu dignamque Siphnon.
-Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt dixit: ritu pharetramque.</description>
-    </item>
-    
-    <item>
       <title>Creating a New Theme</title>
       <link>https://engineers-united.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -88,30 +68,12 @@ HackUNT History How to get involved # New Member I&amp;rsquo;m new&amp;hellip; n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://engineers-united.github.io/docs/engineers-united/git-workflows/</guid>
-      <description>Git Workflows # Setting up git on your system # MacOS MacOS # This is tab MacOS content.
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa protulit, sed sed aere valvis inhaesuro Pallas animam: qui quid, ignes. Miseratus fonte Ditis conubia.
-Linux Linux # This is tab Linux content.
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://engineers-united.github.io/docs/example/collapsed/3rd-level/4th-level/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineers-united.github.io/docs/example/collapsed/3rd-level/4th-level/</guid>
-      <description>4th Level of Menu # Caesorum illa tu sentit micat vestes papyriferi # Inde aderam facti; Theseus vis de tauri illa peream. Oculos uberaque non regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo; gestanda nitidi, vero? Dum ne pectoraque testantur.
-Venasque repulsa Samos qui, exspectatum eram animosque hinc, aut manes, Assyrii. Cupiens auctoribus pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae iusto!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://engineers-united.github.io/docs/example/hidden/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://engineers-united.github.io/docs/example/hidden/</guid>
-      <description>This page is hidden in menu # Quondam non pater est dignior ille Eurotas # Latent te facies # Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus, frementes, qui in vel. Hippotades Peleus pennas conscia cuiquam Caeneus quas.
-Pater demittere evincitque reddunt Maxime adhuc pressit huc Danaas quid freta Soror ego Luctus linguam saxa ultroque prior Tatiumque inquit Saepe liquitur subita superata dederat Anius sudor Cum honorum Latona # O fallor in sustinui iussorum equidem.</description>
+      <description>Our Git Workflows # Setting up git on your system # Linux Linux # For Fedora (or RPM-based distributions) # RUN
+sudo dnf install git-all For Debian-based distributions (such as Ubuntu) # RUN:
+sudo apt-get install git-all MacOS MacOS # If brew is already install in on your machine skip to Install git
+Install brew # RUN
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; Install git # RUN
+brew update brew install git brew install git-gui Windows Windows # Download the office installer by going here Get fimilar with git # Git is the number one version control system in the world by useage.</description>
     </item>
     
     <item>
@@ -209,7 +171,8 @@ Hacker Badge Writing names on badges Team Name If they do not have a team don&am
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</guid>
-      <description>Onboarding # Sponsorship Onboarding is the next step after sponsors agree to participate in the hackathon! It is very important that you follow up quickly and respectively during these times. Sponsors will have quite a few questions but most can be answered by giving them the Sponsor Onboarding Packet.</description>
+      <description> Onboarding Packet # Sponsorship Onboarding is the next step after sponsors agree to participate in the hackathon! It is very important that you follow up quickly and respectively during these times. Sponsors will have quite a few questions but most can be answered by giving them the Sponsor Onboarding Packet.
+What is included in a good onboarding packet # kfjd lorem not lorem Examples # 2023 2022 </description>
     </item>
     
     <item>
@@ -219,6 +182,16 @@ Hacker Badge Writing names on badges Team Name If they do not have a team don&am
       
       <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</guid>
       <description>Sponsorhip Retrospective # Following up # We should follow up with sponsors after our event. It is important to know what we did right and did wrong. This will better help us to understand the wants and needs of our sponsors. These companies were willing to give us a chance and give us a considerable amount. It is important that we try to mitigate all damages that might have occurred during the event.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://engineers-united.github.io/docs/hackunt/sponsorship/sponsorship-packet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/hackunt/sponsorship/sponsorship-packet/</guid>
+      <description> Sponsorship Packet # Send this document during the initial reaching out to both legacy and potential sponsors. If this packet is done correctly, your sponsorship sells itself.
+What is included in a good sponsorship packet # Main section stating we are a non-profit and go over our mission statement What is a hackathon Where are we located Make sure to included as much stats as reasonable Table of Sponsorship Benefits Why you should be a sponsor section Explain why there sponsorship is needed Send of message (optional) past sponsors section Examples # 2023 2022 </description>
     </item>
     
     <item>

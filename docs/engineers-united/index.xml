@@ -23,10 +23,12 @@ HackUNT History How to get involved # New Member I&amp;rsquo;m new&amp;hellip; n
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://engineers-united.github.io/docs/engineers-united/git-workflows/</guid>
-      <description>Git Workflows # Setting up git on your system # MacOS MacOS # This is tab MacOS content.
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa protulit, sed sed aere valvis inhaesuro Pallas animam: qui quid, ignes. Miseratus fonte Ditis conubia.
-Linux Linux # This is tab Linux content.
-Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+      <description>Our Git Workflows # Setting up git on your system # Linux Linux # For Fedora (or RPM-based distributions) # RUN
+sudo dnf install git-all For Debian-based distributions (such as Ubuntu) # RUN:
+sudo apt-get install git-all MacOS MacOS # If brew is already install in on your machine skip to Install git
+Install brew # RUN
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; Install git # RUN
+brew update brew install git brew install git-gui Windows Windows # Download the office installer by going here Get fimilar with git # Git is the number one version control system in the world by useage.</description>
     </item>
     
   </channel>
