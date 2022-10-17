@@ -27,7 +27,7 @@ brew update brew install git brew install git-gui Windows Windows # Download the
 <link rel="icon" href="/favicon.png" type="image/x-icon">
 <link rel="stylesheet" href="/book.min.4b35fed0bea034bbc19c89c71e14b73fb9c68cfcc586b9382adfb9b7b103ba06.css" integrity="sha256-SzX&#43;0L6gNLvBnInHHhS3P7nGjPzFhrk4Kt&#43;5t7EDugY=" crossorigin="anonymous">
   <script defer src="/flexsearch.min.js"></script>
-  <script defer src="/en.search.min.0a5e89adf63c184d7243b19b80814de50f2655bc8bc23cd138737ec87089abdb.js" integrity="sha256-Cl6JrfY8GE1yQ7GbgIFN5Q8mVbyLwjzROHN&#43;yHCJq9s=" crossorigin="anonymous"></script>
+  <script defer src="/en.search.min.2542cd3b79e65d97af48940d4206fa57436a5fa8f637c8788d6f7453ec2bd03e.js" integrity="sha256-JULNO3nmXZevSJQNQgb6V0NqX6j2N8h4jW90U&#43;wr0D4=" crossorigin="anonymous"></script>
 <!--
 Made with Book Theme
 https://github.com/alex-shpak/hugo-book
@@ -532,6 +532,10 @@ Get started with git by reading the offical docs on git <a href="https://git-scm
   Our branching strategy
   <a class="anchor" href="#our-branching-strategy">#</a>
 </h3>
+<h4 id="mermaid-testing">
+  Mermaid testing
+  <a class="anchor" href="#mermaid-testing">#</a>
+</h4>
 
 
 <script src="/mermaid.min.js"></script>
@@ -549,11 +553,47 @@ Get started with git by reading the offical docs on git <a href="https://git-scm
 
 <p class="mermaid">
 gitGraph;
-   commit
-   commit
-   commit
+commit
+commit
+commit
 </p>
 
+<h4 id="using-branches">
+  Using branches
+  <a class="anchor" href="#using-branches">#</a>
+</h4>
+<ul>
+<li>Name your branches based on what you worked on and checkout using <code>git checkout -b &lt;name_of_branch&gt;</code></li>
+<li>Once checked out verify what branch you are located on using <code>git branch</code></li>
+<li>Delete a branch using <code>git branch -d &lt;name_of_branch&gt;</code></li>
+</ul>
+<h4 id="how-to-commit-changes">
+  How to commit changes
+  <a class="anchor" href="#how-to-commit-changes">#</a>
+</h4>
+<ul>
+<li>Switch to a new terminal</li>
+<li>Display your status using <code>git status</code></li>
+<li>Record the current state of the working directory with <code>git stash</code></li>
+<li>Checkout a new branch using <code>git checkout -b &lt;name_of_branch&gt;</code></li>
+<li>Verify you checked out the correct new branch using <code>git branch</code>
+<ul>
+<li>you will see that an <code>*</code> is next to the current branch you are working on</li>
+</ul>
+</li>
+<li>Pop your current state of the working directory using <code>git stash pop</code></li>
+<li>Stage the current changes to the working directory using <code>git add &lt;path_to_directory&gt;</code></li>
+<li>Commmit your changes using <code>git commit</code>
+<ul>
+<li>the command will open a text editor and you can add your commit message above the <code>#</code></li>
+</ul>
+</li>
+<li>Finally, push your changes using <code>git push --set-upstream origin &lt;name_of_branch&gt;</code>
+<ul>
+<li>Delete the branch once you have merged</li>
+</ul>
+</li>
+</ul>
 </article>
  
       
