@@ -1,97 +1,173 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://engineers-united.github.io/docs/engineers-united/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/example/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/roles/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://engineers-united.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://engineers-united.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/engineers-united/get-involved/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/engineers-united/git-workflows/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/example/shortcodes/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/checklist/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/day-of-action/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/event-wifi/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/roles/design-team/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/roles/external-relations/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/roles/president/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/email-templates/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/initial-outreach/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/onboarding/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/retrospective/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/sponsorship/sponsorship-packet/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/hackunt/stats/</loc>
-  </url><url>
-    <loc>https://engineers-united.github.io/docs/hackunt/volunteer-guidlines/</loc>
-  </url><url>
+  </url>
+  
+  <url>
+    <loc>https://engineers-united.github.io/docs/hackunt/volunteer-guidelines/</loc>
+  </url>
+  
+  <url>
     <loc>https://engineers-united.github.io/docs/</loc>
   </url>
+  
 </urlset>
