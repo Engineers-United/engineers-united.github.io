@@ -5,10 +5,19 @@
     <link>https://engineers-united.github.io/docs/engineers-united/</link>
     <description>Recent content in Engineers United on Engineers United Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://engineers-united.github.io/docs/engineers-united/index.xml" rel="self" type="application/rss+xml" />
-    
+    <language>en-us</language><atom:link href="https://engineers-united.github.io/docs/engineers-united/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domains Explained</title>
+      <link>https://engineers-united.github.io/docs/engineers-united/domains-explained/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://engineers-united.github.io/docs/engineers-united/domains-explained/</guid>
+      <description>Our Domains Explained # hackunt.org # This is our main domain The hackunt.org domain&amp;rsquo;s DNS records and domain hosting is done by Google Domains. It&amp;rsquo;s our main domain, most used, and most know domain we own.
+The creditionals:
+login: officialhackunt@gmail.com
+password: Ask the current president for the password
+Current hackunt.org subdomains # subdomain Purpose docs.hackunt.org Documentation Website www.hackunt.org Main Website hackunt.org Main Website beta.hackunt.org Developmental version of Main Website Future hackunt.</description>
+    </item>
     
     <item>
       <title></title>
@@ -16,9 +25,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://engineers-united.github.io/docs/engineers-united/get-involved/</guid>
-      <description>Get Involved Getting started The History of HackUNT
+      <description>Get Involved # Getting started # The History of HackUNT
 It&amp;rsquo;s not required to know the history of HackUNT to get involved in it; nevertheless, it will give you perspective on where we started and where we are going.
- HackUNT History  How to get involved New Member I&amp;rsquo;m new&amp;hellip; now what?  Read the documentation on your role in the HackUNT/roles/ section Coordinate with the president about what is needed from you Attend the meetings Have fun, and enjoy the experience!</description>
+HackUNT History How to get involved # New Member I&amp;rsquo;m new&amp;hellip; now what? # Read the documentation on your role in the HackUNT/roles/ section Coordinate with the president about what is needed from you Attend the meetings Have fun, and enjoy the experience!</description>
     </item>
     
     <item>
@@ -27,12 +36,12 @@ It&amp;rsquo;s not required to know the history of HackUNT to get involved in it
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://engineers-united.github.io/docs/engineers-united/git-workflows/</guid>
-      <description>Our Git Workflows Setting up git on your system Linux Linux For Fedora (or RPM-based distributions) RUN
-sudo dnf install git-all For Debian-based distributions (such as Ubuntu) RUN:
-sudo apt-get install git-all MacOS MacOS  If brew is already install in on your machine skip to Install git
- Install brew RUN
-/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; Install git RUN
-brew update brew install git brew install git-gui Windows Windows Install Git  Download the office installer by going here Choose either the 32-bit or 64-bit install After downloading, click yes to confirm changes Click Next &amp;gt; choose a folder for the location of Git Leave all checkboxes clicked by default &amp;gt; Click Next Click Next Choose a default text editor you want to use &amp;gt; Click Next Let Git Decide &amp;gt; Click Next Leave the default options and Click Next three times For Configuring the line ending conversions  Choose Checkout Windows-style, commit Unix-style line endings If there are any issues later down the road with committing, go to Working with multiple terminals   Click Next till the end and then click Install After installing, you can View release notes and/or Launch Git Bash   To verify Git install go to command prompt</description>
+      <description>Our Git Workflows # Setting up git on your system # Linux Linux # For Fedora (or RPM-based distributions) # RUN
+sudo dnf install git-all For Debian-based distributions (such as Ubuntu) # RUN:
+sudo apt-get install git-all MacOS MacOS # If brew is already install in on your machine skip to Install git
+Install brew # RUN
+/bin/bash -c &amp;#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&amp;#34; Install git # RUN
+brew update brew install git brew install git-gui Windows Windows # Install Git # Download the office installer by going here Choose either the 32-bit or 64-bit install After downloading, click yes to confirm changes Click Next &amp;gt; choose a folder for the location of Git Leave all checkboxes clicked by default &amp;gt; Click Next Click Next Choose a default text editor you want to use &amp;gt; Click Next Let Git Decide &amp;gt; Click Next Leave the default options and Click Next three times For Configuring the line ending conversions Choose Checkout Windows-style, commit Unix-style line endings If there are any issues later down the road with committing, go to Working with multiple terminals Click Next till the end and then click Install After installing, you can View release notes and/or Launch Git Bash To verify Git install go to command prompt</description>
     </item>
     
   </channel>

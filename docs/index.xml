@@ -5,10 +5,6 @@
     <link>https://engineers-united.github.io/docs/</link>
     <description>Recent content in Docs on Engineers United Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://engineers-united.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://engineers-united.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
